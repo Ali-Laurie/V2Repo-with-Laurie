@@ -1,6 +1,6 @@
 # V2Ray Auto-Tested Config Subscription
 
-**آخرین آپدیت:** 2026-06-15 01:00 UTC
+**آخرین آپدیت:** 2026-06-15 01:08 UTC
 هر ۸ ساعت به‌صورت خودکار آپدیت می‌شود.
 
 ## لینک‌های اشتراک (Subscription)
@@ -8,6 +8,8 @@
 - **خام:** `https://raw.githubusercontent.com/Ali-Laurie/V2Repo-with-Laurie/main/sub.txt`
 - **Base64:** `https://raw.githubusercontent.com/Ali-Laurie/V2Repo-with-Laurie/main/sub_base64.txt`
 - **فقط سالم‌های تست‌شده:** `https://raw.githubusercontent.com/Ali-Laurie/V2Repo-with-Laurie/main/working.txt`
+- **☁️ Cloudflare Worker:** `https://raw.githubusercontent.com/Ali-Laurie/V2Repo-with-Laurie/main/cloudflare.txt`
+- **☁️ Cloudflare (Base64):** `https://raw.githubusercontent.com/Ali-Laurie/V2Repo-with-Laurie/main/cloudflare_base64.txt`
 
 ## آمار این آپدیت
 
@@ -16,5 +18,6 @@
 | ✅ سالمِ تست‌شده (واقعاً کار می‌کنند، مرتب با پینگ) | **3351** |
 | ➕ TCP-زنده (تست‌نشده، برای تکمیل) | 46649 |
 | 📦 مجموع در `sub.txt` | **50000** |
+| ☁️ Cloudflare Worker | **26226** |
 
 > کانفیگ‌های بالای لیست در `sub.txt` تست‌شده و قابل‌اعتمادترند.
